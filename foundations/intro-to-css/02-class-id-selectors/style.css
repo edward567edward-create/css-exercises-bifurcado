@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.fondo {
+    background-color: #ff000055;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#numeroDos {
+    color: #0000ff;
+    font-size: 32px;
+}
+#marginado {
+    background-color: #7eff054e;
+    font-weight: bold;
+    font-size: 24px;
+}
+.fondo.medio {
+    font-size: 24px;
+}
